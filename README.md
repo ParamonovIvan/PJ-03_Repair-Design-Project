@@ -16,7 +16,7 @@
 
 #### Ссылка на страницу сайта: 
 
-+ https://paramonovivan.github.io/Repair-Design-Project_PJ-03/
++ https://paramonovivan.github.io/PJ-03_Repair-Design-Project/
 
 #### Внешний вид страницы:
 
